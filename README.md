@@ -4,7 +4,11 @@
 
 This script uses the AWS Lambda service to automatically scrap the data from `https://stormcenter.oncor.com`
 
-The code structure is as following:
+The code structure:
+![Screenshot 2023-09-17 at 5 21 14 PM](https://github.com/Gting6/WebScraper/assets/46078333/e9eae016-e4a8-4992-a061-8eeba146743a)
+
+A concise demo:
+https://youtu.be/RkZr5gFfwQ8
 
 ## Reproduce
 
